@@ -129,8 +129,5 @@ AttributeError: 'list' object has no attribute 'upper'
 >>> 
 >>> 
 >>> 
->>> # assignment
->>> # convert all the valus to uppercase and save them in a seperate list, upperNames
->>> 
->>> # convert all the values in names and save them in uppernames list
+>>> # NO ASSIGNMENTS IN THIS FILE
 >>> 

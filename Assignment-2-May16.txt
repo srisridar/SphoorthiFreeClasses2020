@@ -1,0 +1,61 @@
+
+## Sphoorthi Oum
+
+
+# Please try solving these
+# do not directly jump into solving that, spend time in understanding the structure, organization of values and
+# think what you've to solve that.
+
+# If you get error , read and understand that carefully, and check if the brackets used, commas, anything is properly used or not
+
+
+#1 Indexing
+
+s = [1,2,3,[4,5,[6,7,8,[9,[10,[11]]]]]]
+
+extract, 1,3,5,7,9,11  from the above list using indexing
+
+
+
+#2 write a program that takes the year of birth as input and displays the age
+
+Enter your year of birth : 2019
+You are 1 years old
+
+
+
+#3 collect name, year of birth, education, accountNumber (any- dummy), contact number, area from the user and
+put  age, account number, contact number in a list
+put name , education, area in another list - all in upper cases
+and display both the lists
+
+
+#4 create a variable with the text below, you can copy paste the same into idle without changing anything in the string.
+
+text="""Not restricting Himself to theory,
+He is making people experience the Omni concepts: Omnipresence, Omniscience and Omnipotence.
+He is The Scientific Saint,
+His Holiness Sri Sri Sri Guru ViswaSphoorthi –
+The Omnipresent, The Omniscient and The Omnipotent."""
+
+thats a single string. from that string, print the last 2 lines only
+the output should be
+
+
+His Holiness Sri Sri Sri Guru ViswaSphoorthi –
+The Omnipresent, The Omniscient and The Omnipotent.
+
+
+
+5) create an empty list, add 10 strings to it using .append method,
+print the count of it
+remove the first and last elements,
+print the count of it
+
+insert 3 float values at the beginning of the list
+display the count
+insert 2 strings at the middle of the list
+display the count
+add 2 duplicate values, one at the beginning and one at the end of the list
+remove one value using .remove method
+see which value is being removed ( first or last ?)

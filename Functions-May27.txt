@@ -1,0 +1,107 @@
+Functions :
+
+
+function - a small program that has a keyword or the functionName	
+			It takes an input and returns the output
+			all the inputs we pass into a function - arguments/args
+
+
+			   function code
+
+			   inputs
+
+			Code Re-usability
+
+
+## Creation of a Function / Function definition
+
+structure function
+
+fucntion Name
+			function code
+			function code
+			function code
+			function code
+			function code
+			function code
+	function return 
+
+
+
+functionName(arg1,arg2,arg3,arg4,arg5....)
+			function code on args
+			function code on inputs
+			
+	function return 
+
+
+## Function calling
+
+functionName(inp1,inp2,inp3...)
+
+len("string")
+
+
+def - keywrd we use to create a function
+
+def FunctionName(input,input,input,input....)
+	write code on the inputs
+	return result
+
+
+FunctionName(inp,input,input..)	
+
+
+- functions always return values
+- all the inputs passed into a function need to be used
+
+
+
+
+@ wap that takes 2 numbers and returns the sum of it
+
+
+x=5
+y=7
+result= x+y
+
+
+def add(n1,n2):
+
+	result=n1+n2
+	
+
+	return result
+
+
+
+# craete a function that takes  url and returns the html text
+
+example
+gettext("www.google.com")
+
+
+# create a function , when executed, asked you to enter 
+	the name,age,area,contact,
+	returs a dictionary
+
+# create a function that takes 3 subjects as inputs
+maths,science ,social
+returns a dictionary of 4 keys
+3keys are marks
+4th key is average
+
+
+avg(maths,science,social)
+
+{
+	'math':99,
+	'science':98,
+	'social':90,
+	'average':97
+}
+
+
+
+requests 
+dict - how to create key-values
